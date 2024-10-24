@@ -1,0 +1,5 @@
+- clean code principles not respected: commented code, no purpose separation, cluttered code, lint not respected
+- Tailwind "dark:" syntax not used, instead only conditions in code
+- Extensive unnecessary packages in package.json
+- functionaly:
+  - dark/light mode switch not working on expo go
